@@ -1,0 +1,58 @@
+#Unigraph
+SIZE 1318 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+38
+"<E>" 1 667 1 5 
+"" 1302 558 0 
+"<matin>+<midi>+<soir>+<jour>+<semaine>+24h+48h+mns+h+<heure>+mn" 1126 120 1 1 
+"<heure>" 1022 374 1 1 
+"<unité>+cp+<cuillère>+g+mg+ml+<injection>+l+<litre>+<sachet>+<dose>+<gélule>+<fois>+<goutte>+cc+cps+µg+µmol+ng\/ml+g\/dl+amp+amps+mg\/mL" 808 820 11 11 12 13 14 15 16 6 29 28 27 30 
+"<subst>" 39 667 15 18 20 22 17 21 19 4 23 26 25 24 30 35 36 37 
+"<E>" 928 212 3 2 7 10 
+"<matin>+<midi>+<soir>+<jour>+<semaine>+24h+48h+mns+h+<heure>+mn" 1038 90 1 9 
+"<matin>+<midi>+<soir>+<jour>+<semaine>+24h+48h+mns+h+<heure>mn" 1208 196 1 1 
+"<et>+<ou>" 1203 449 2 8 7 
+"<NB>" 966 294 1 3 
+"<TOKEN>" 594 281 1 15 
+"<TOKEN>" 467 161 1 14 
+"<TOKEN>" 732 352 1 6 
+"<TOKEN>" 504 205 1 16 
+"<TOKEN>" 663 317 1 13 
+"<TOKEN>" 546 244 2 11 30 
+"<TOKEN>" 252 166 1 21 
+"<TOKEN>" 254 54 1 20 
+"<TOKEN>" 262 253 2 4 23 
+"<TOKEN>" 253 93 1 22 
+"<TOKEN>" 258 206 1 19 
+"<TOKEN>" 254 130 1 17 
+"µg\/heure+µg\/heures+mg\/heure+mg\/heures+µg\/jour+µg\/jours+mg\/jour+mg\/jours+mg\/24 h+mg\/48 h+µg\/24 h+µg\/48 h+1\/j+2\/j+3\/j+4\/j+1\/jour+2\/jour+3\/jour+4\/jour+1\/jours+2\/jours+3\/jours+4\/jours+sous-cutanée\/jour+sous-cutanée\/jours+cp\/jour+cps\/jour+(1\/j)+(2\/j)+(3\/j)+\/j+gélule/jour" 465 871 2 1 6 
+"<MOT>" 260 13 1 18 
+"<MOT>" 9 12 1 24 
+"<MOT>" 34 53 1 25 
+"<MOT>" 453 115 1 12 
+"<MOT>" 438 71 1 27 
+"<MOT>" 428 19 1 28 
+"<NB>" 202 495 1 31 
+"_+.+-" 282 495 1 32 
+"<NB>" 318 569 1 33 
+"_+.+-" 408 468 1 34 
+"<NB>" 455 526 1 1 
+"<TOKEN>" 55 84 1 36 
+"<TOKEN>" 75 129 1 37 
+"<TOKEN>" 98 172 1 30 
